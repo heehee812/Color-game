@@ -1,5 +1,5 @@
 # Color Game
-[Click here for Demo](https://heehee812.gitlab.io/-/color-game/-/jobs/1134334180/artifacts/public/dist/index.html)
+[Click here for Demo](https://heehee812.gitlab.io/color-game/)
 
 ## :rainbow: Illustration
 Throught the RGB that the question gives, gussing the color among three to six cards (depends on the level you choose)it should be like.
